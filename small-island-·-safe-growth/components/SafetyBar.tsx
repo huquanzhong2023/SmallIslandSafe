@@ -6,7 +6,7 @@ export const SafetyBar: React.FC = () => {
 
   const handleQuickExit = () => {
     // Immediate redirect to a neutral site
-    window.location.replace("https://www.google.com");
+    window.location.replace("https://www.baidu.com");
   };
 
   return (
