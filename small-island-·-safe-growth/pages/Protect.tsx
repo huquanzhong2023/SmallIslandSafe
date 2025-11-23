@@ -103,3 +103,7 @@ export const Protect: React.FC = () => {
             </p>
           </div>
         </div>
+      )}
+    </div>
+  );
+};
